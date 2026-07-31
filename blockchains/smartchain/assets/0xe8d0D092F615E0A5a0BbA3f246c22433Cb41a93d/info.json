@@ -1,0 +1,11 @@
+{
+  "name": "NOME DO SEU TOKEN",
+  "website": "https://seusite.com",
+  "description": "Descricao do seu token aqui.",
+  "explorer": "https://bscscan.com/token/0xe8d0D092F615E0A5a0BbA3f246c22433Cb41a93d",
+  "type": "BEP20",
+  "symbol": "SIMBOLO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe8d0D092F615E0A5a0BbA3f246c22433Cb41a93d"
+}
